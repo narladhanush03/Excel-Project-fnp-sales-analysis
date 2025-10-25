@@ -1,6 +1,6 @@
 # FNP Sales Analysis Dashboard (Microsoft Excel)
 
-This repository hosts a comprehensive, interactive sales analysis dashboard developed in Microsoft Excel. The project is designed to provide quick, data-driven insights into sales performance for FNP (Flowers N Petals) data, focusing on key performance indicators (KPIs), trend analysis, and customer segmentation.
+This repository hosts a comprehensive, interactive sales analysis dashboard developed in Microsoft Excel. The project is designed to provide quick, data-driven insights into sales performance for FNP (Ferns N Petals) data, focusing on key performance indicators (KPIs), trend analysis, and customer segmentation.
 
 ---
 
